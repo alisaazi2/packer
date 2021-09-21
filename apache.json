@@ -40,7 +40,7 @@
                 "sudo systemctl start httpd",
                 "sudo systemctl enable httpd"
             ]
-    }]
+    }],
     "post-processors": [
     {
       "type": "manifest",
